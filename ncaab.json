@@ -1,0 +1,1817 @@
+{
+  "Boston College": {
+    "conference": "ACC",
+    "name": "Eagles",
+    "abbreviation": "BC"
+  },
+  "California": {
+    "conference": "ACC",
+    "name": "Golden Bears",
+    "abbreviation": "Cal"
+  },
+  "Clemson": {
+    "conference": "ACC",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Duke": {
+    "conference": "ACC",
+    "name": "Blue Devils",
+    "abbreviation": null
+  },
+  "Florida State": {
+    "conference": "ACC",
+    "name": "Seminoles",
+    "abbreviation": "FSU"
+  },
+  "Georgia Tech": {
+    "conference": "ACC",
+    "name": "Yellow Jackets",
+    "abbreviation": "GT"
+  },
+  "Louisville": {
+    "conference": "ACC",
+    "name": "Cardinals",
+    "abbreviation": "UofL"
+  },
+  "Miami": {
+    "conference": "ACC",
+    "name": "Cardinals",
+    "abbreviation": "UMiami"
+  },
+  "North Carolina State": {
+    "conference": "ACC",
+    "name": "Wolfpack",
+    "abbreviation": "NC State"
+  },
+  "North Carolina": {
+    "conference": "ACC",
+    "name": "Tar Heels",
+    "abbreviation": "UNC"
+  },
+  "Notre Dame": {
+    "conference": "ACC",
+    "name": "Fighting Irish",
+    "abbreviation": "ND"
+  },
+  "Pittsburgh": {
+    "conference": "ACC",
+    "name": "Panthers",
+    "abbreviation": "Pitt"
+  },
+  "Southern Methodist University": {
+    "conference": "ACC",
+    "name": "Mustangs",
+    "abbreviation": "SMU"
+  },
+  "Stanford": {
+    "conference": "ACC",
+    "name": "Cardinal",
+    "abbreviation": null
+  },
+  "Syracuse": {
+    "conference": "ACC",
+    "name": "Orange",
+    "abbreviation": "Cuse"
+  },
+  "Virginia": {
+    "conference": "ACC",
+    "name": "Cavaliers",
+    "abbreviation": "UVA"
+  },
+  "Virginia Tech": {
+    "conference": "ACC",
+    "name": "Hokies",
+    "abbreviation": "VT"
+  },
+  "Wake Forest": {
+    "conference": "ACC",
+    "name": "Demon Deacons",
+    "abbreviation": "Wake"
+  },
+  "Austin Peay": {
+    "conference": "ASUN",
+    "name": "Governers",
+    "abbreviation": null
+  },
+  "Bellarmine": {
+    "conference": "ASUN",
+    "name": "Knights",
+    "abbreviation": null
+  },
+  "Cental Arkansas": {
+    "conference": "ASUN",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Eastern Kentucky": {
+    "conference": "ASUN",
+    "name": "Colonels",
+    "abbreviation": null
+  },
+  "Florida Gulf Coast": {
+    "conference": "ASUN",
+    "name": "Eagles",
+    "abbreviation": "FGCU"
+  },
+  "Jacksonville": {
+    "conference": "ASUN",
+    "name": "Dolphins",
+    "abbreviation": null
+  },
+  "Lipscomb": {
+    "conference": "ASUN",
+    "name": "Bisons",
+    "abbreviation": null
+  },
+  "North Alabama": {
+    "conference": "ASUN",
+    "name": "Lions",
+    "abbreviation": null
+  },
+  "North Florida": {
+    "conference": "ASUN",
+    "name": "Ospreys",
+    "abbreviation": null
+  },
+  "Queens": {
+    "conference": "ASUN",
+    "name": "Royals",
+    "abbreviation": null
+  },
+  "Stetson": {
+    "conference": "ASUN",
+    "name": "Hatters",
+    "abbreviation": null
+  },
+  "West Georgia": {
+    "conference": "ASUN",
+    "name": "Wolves",
+    "abbreviation": null
+  },
+  "Birmingham": {
+    "conference": "American East",
+    "name": "Bearcats",
+    "abbreviation": null
+  },
+  "Bryant": {
+    "conference": "American East",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Maine": {
+    "conference": "American East",
+    "name": "Black Bears",
+    "abbreviation": null
+  },
+  "New Jersey Institute of Technology": {
+    "conference": "American East",
+    "name": "Highlanders",
+    "abbreviation": "NJIT"
+  },
+  "New Hampshire": {
+    "conference": "American East",
+    "name": "Wildcats",
+    "abbreviation": "UNH"
+  },
+  "Albany": {
+    "conference": "American East",
+    "name": "Great Danes",
+    "abbreviation": null
+  },
+  "Baltimore County": {
+    "conference": "American East",
+    "name": "Retrievers",
+    "abbreviation": "UMBC"
+  },
+  "Massachusetts Lowell": {
+    "conference": "American East",
+    "name": "River Hawks",
+    "abbreviation": "UMass Lowell"
+  },
+  "Vermont": {
+    "conference": "American East",
+    "name": "Catamounts",
+    "abbreviation": "UVM"
+  },
+  "Charlotte": {
+    "conference": "American",
+    "name": "49ers",
+    "abbreviation": null
+  },
+  "East Carolina": {
+    "conference": "American",
+    "name": "Pirates",
+    "abbreviation": "ECU"
+  },
+  "Florida Atlantic": {
+    "conference": "American",
+    "name": "Owls",
+    "abbreviation": "FAU"
+  },
+  "Memphis": {
+    "conference": "American",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "North Texas": {
+    "conference": "American",
+    "name": "Mean Green",
+    "abbreviation": "UNT"
+  },
+  "Rice": {
+    "conference": "American",
+    "name": "Owls",
+    "abbreviation": null
+  },
+  "South Florida": {
+    "conference": "American",
+    "name": "Bulls",
+    "abbreviation": "USF"
+  },
+  "Temple": {
+    "conference": "American",
+    "name": "Owls",
+    "abbreviation": null
+  },
+  "Tulane": {
+    "conference": "American",
+    "name": "Green Wave",
+    "abbreviation": null
+  },
+  "Tulsa": {
+    "conference": "American",
+    "name": "Golden Hurricane",
+    "abbreviation": null
+  },
+  "Alabama at Birmingham": {
+    "conference": "American",
+    "name": "Blazers",
+    "abbreviation": "UAB"
+  },
+  "Texas at San Antonio": {
+    "conference": "American",
+    "name": "Roadrunners",
+    "abbreviation": "UTSA"
+  },
+  "Wichita State": {
+    "conference": "American",
+    "name": "Shockers",
+    "abbreviation": null
+  },
+  "Davidson": {
+    "conference": "A10",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Dayton": {
+    "conference": "A10",
+    "name": "Flyers",
+    "abbreviation": null
+  },
+  "Duquesne": {
+    "conference": "A10",
+    "name": "Dukes",
+    "abbreviation": null
+  },
+  "Fordham": {
+    "conference": "A10",
+    "name": "Rams",
+    "abbreviation": null
+  },
+  "George Mason": {
+    "conference": "A10",
+    "name": "Patriots",
+    "abbreviation": "GMU"
+  },
+  "George Washington": {
+    "conference": "A10",
+    "name": "Revolutionaries",
+    "abbreviation": "GWU"
+  },
+  "La Salle": {
+    "conference": "A10",
+    "name": "Explorers",
+    "abbreviation": null
+  },
+  "Loyola Chicago": {
+    "conference": "A10",
+    "name": "Ramblers",
+    "abbreviation": null
+  },
+  "Massachusetts": {
+    "conference": "A10",
+    "name": "Minutemen",
+    "abbreviation": "UMass"
+  },
+  "Rhode Island": {
+    "conference": "A10",
+    "name": "Rams",
+    "abbreviation": null
+  },
+  "Richmond": {
+    "conference": "A10",
+    "name": "Spiders",
+    "abbreviation": null
+  },
+  "Saint Joseph's": {
+    "conference": "A10",
+    "name": "Hawks",
+    "abbreviation": null
+  },
+  "Saint Louis": {
+    "conference": "A10",
+    "name": "Billikens",
+    "abbreviation": null
+  },
+  "St. Bonaventure": {
+    "conference": "A10",
+    "name": "Bonnies",
+    "abbreviation": null
+  },
+  "Virginia Commonwealth": {
+    "conference": "A10",
+    "name": "Rams",
+    "abbreviation": "Rams"
+  },
+  "Arizona State": {
+    "conference": "Big 12",
+    "name": "Sun Devils",
+    "abbreviation": "ASU"
+  },
+  "Arizona": {
+    "conference": "Big 12",
+    "name": "Wildcats",
+    "abbreviation": "UA"
+  },
+  "Brigham Young University": {
+    "conference": "Big 12",
+    "name": "Cougars",
+    "abbreviation": "BYU"
+  },
+  "Baylor": {
+    "conference": "Big 12",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Cincinnati": {
+    "conference": "Big 12",
+    "name": "Bearcats",
+    "abbreviation": "UC"
+  },
+  "Colorado": {
+    "conference": "Big 12",
+    "name": "Buffaloes",
+    "abbreviation": "CU"
+  },
+  "Houston": {
+    "conference": "Big 12",
+    "name": "Cougars",
+    "abbreviation": "UH"
+  },
+  "Iowa State": {
+    "conference": "Big 12",
+    "name": "Cyclones",
+    "abbreviation": "ISU"
+  },
+  "Kansas": {
+    "conference": "Big 12",
+    "name": "Jayhawks",
+    "abbreviation": "KU"
+  },
+  "Kansas State": {
+    "conference": "Big 12",
+    "name": "Wildcats",
+    "abbreviation": "KState"
+  },
+  "Oklahoma State": {
+    "conference": "Big 12",
+    "name": "Cowboys",
+    "abbreviation": "OKST"
+  },
+  "Texas Christian": {
+    "conference": "Big 12",
+    "name": "Horned Frogs",
+    "abbreviation": "TCU"
+  },
+  "Texas Tech": {
+    "conference": "Big 12",
+    "name": "TTU",
+    "abbreviation": "TTU"
+  },
+  "Central Florida": {
+    "conference": "Big 12",
+    "name": "Knights",
+    "abbreviation": "UCF"
+  },
+  "Utah": {
+    "conference": "Big 12",
+    "name": "Utes",
+    "abbreviation": "UU"
+  },
+  "West Virginia": {
+    "conference": "Big 12",
+    "name": "Mountaineers",
+    "abbreviation": "WVU"
+  },
+  "Butler": {
+    "conference": "Big East",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Creighton": {
+    "conference": "Big East",
+    "name": "Bluejays",
+    "abbreviation": null
+  },
+  "DePaul": {
+    "conference": "Big East",
+    "name": "Blue Deacons",
+    "abbreviation": null
+  },
+  "Georgetown": {
+    "conference": "Big East",
+    "name": "Hoyas",
+    "abbreviation": null
+  },
+  "Marquette": {
+    "conference": "Big East",
+    "name": "Golden Eagles",
+    "abbreviation": null
+  },
+  "Providence": {
+    "conference": "Big East",
+    "name": "Friars",
+    "abbreviation": null
+  },
+  "Seton Hall": {
+    "conference": "Big East",
+    "name": "Pirates",
+    "abbreviation": null
+  },
+  "St. John's": {
+    "conference": "Big East",
+    "name": "Red Storm",
+    "abbreviation": "SJU"
+  },
+  "Connecticut": {
+    "conference": "Big East",
+    "name": "Huskies",
+    "abbreviation": "UConn"
+  },
+  "Villanova": {
+    "conference": "Big East",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Xavier": {
+    "conference": "Big East",
+    "name": "Musketeers",
+    "abbreviation": null
+  },
+  "Eastern Washington": {
+    "conference": "Big Sky",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Idaho State": {
+    "conference": "Big Sky",
+    "name": "Bengals",
+    "abbreviation": null
+  },
+  "Idaho": {
+    "conference": "Big Sky",
+    "name": "Vandals",
+    "abbreviation": null
+  },
+  "Montana State": {
+    "conference": "Big Sky",
+    "name": "Bobcats",
+    "abbreviation": null
+  },
+  "Northern Arizona": {
+    "conference": "Big Sky",
+    "name": "Lumberjacks",
+    "abbreviation": null
+  },
+  "Northern Colorado": {
+    "conference": "Big Sky",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Portland State": {
+    "conference": "Big Sky",
+    "name": "Vikings",
+    "abbreviation": null
+  },
+  "Sacramento State": {
+    "conference": "Big Sky",
+    "name": "Hornets",
+    "abbreviation": null
+  },
+  "Weber State": {
+    "conference": "Big Sky",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Charleston Southern": {
+    "conference": "Big South",
+    "name": "Buccaneers",
+    "abbreviation": null
+  },
+  "Gardner-Webb": {
+    "conference": "Big South",
+    "name": "Runnin' Bulldogs",
+    "abbreviation": null
+  },
+  "High Point": {
+    "conference": "Big South",
+    "name": "Panthers",
+    "abbreviation": "HPU"
+  },
+  "Longwood": {
+    "conference": "Big South",
+    "name": "Lancers",
+    "abbreviation": null
+  },
+  "Presbyterian": {
+    "conference": "Big South",
+    "name": "Blue Horse",
+    "abbreviation": null
+  },
+  "Radford": {
+    "conference": "Big South",
+    "name": "Highlanders",
+    "abbreviation": null
+  },
+  "South Carolina Upstate": {
+    "conference": "Big South",
+    "name": "Spartans",
+    "abbreviation": null
+  },
+  "North Carolina Asheville": {
+    "conference": "Big South",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Winthrop": {
+    "conference": "Big South",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Illinois": {
+    "conference": "Big 10",
+    "name": "Fighting Illini",
+    "abbreviation": "UIUC"
+  },
+  "Indiana": {
+    "conference": "Big 10",
+    "name": "Hoosiers",
+    "abbreviation": "IU"
+  },
+  "Iowa": {
+    "conference": "Big 10",
+    "name": "Hawkeyes",
+    "abbreviation": null
+  },
+  "Maryland": {
+    "conference": "Big 10",
+    "name": "Terrapins",
+    "abbreviation": "UMD"
+  },
+  "Michigan State": {
+    "conference": "Big 10",
+    "name": "Spartans",
+    "abbreviation": "MSU"
+  },
+  "Michigan": {
+    "conference": "Big 10",
+    "name": "Wolverines",
+    "abbreviation": "UM"
+  },
+  "Minnesota": {
+    "conference": "Big 10",
+    "name": "Golden Gophers",
+    "abbreviation": "UMinn"
+  },
+  "Nebraska": {
+    "conference": "Big 10",
+    "name": "Cornhuskers",
+    "abbreviation": null
+  },
+  "Northwestern": {
+    "conference": "Big 10",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Ohio State": {
+    "conference": "Big 10",
+    "name": "Buckeyes",
+    "abbreviation": "OSU"
+  },
+  "Oregon": {
+    "conference": "Big 10",
+    "name": "Ducks",
+    "abbreviation": null
+  },
+  "Penn State": {
+    "conference": "Big 10",
+    "name": "Nittany Lions",
+    "abbreviation": "PSU"
+  },
+  "Purdue": {
+    "conference": "Big 10",
+    "name": "Boilermakers",
+    "abbreviation": null
+  },
+  "Rutgers": {
+    "conference": "Big 10",
+    "name": "Scarlet Knights",
+    "abbreviation": null
+  },
+  "Los Angeles": {
+    "conference": "Big 10",
+    "name": "Bruins",
+    "abbreviation": "UCLA"
+  },
+  "Southern California": {
+    "conference": "Big 10",
+    "name": "Trojans",
+    "abbreviation": "USC"
+  },
+  "Washington": {
+    "conference": "Big 10",
+    "name": "Huskies",
+    "abbreviation": "UW"
+  },
+  "Wisconsin": {
+    "conference": "Big 10",
+    "name": "Badgers",
+    "abbreviation": "UW"
+  },
+  "Cal Poly": {
+    "conference": "Big West",
+    "name": "Mustangs",
+    "abbreviation": null
+  },
+  "Cal State Bakersfield": {
+    "conference": "Big West",
+    "name": "Roadrunners",
+    "abbreviation": null
+  },
+  "Cal State Fullerton": {
+    "conference": "Big West",
+    "name": "Titans",
+    "abbreviation": null
+  },
+  "Cal State Northridge": {
+    "conference": "Big West",
+    "name": "Matadors",
+    "abbreviation": null
+  },
+  "Hawai'i": {
+    "conference": "Big West",
+    "name": "Rainbow Warriors",
+    "abbreviation": null
+  },
+  "Long Beach State": {
+    "conference": "Big West",
+    "name": "Warriors",
+    "abbreviation": null
+  },
+  "California Davis": {
+    "conference": "Big West",
+    "name": "Aggies",
+    "abbreviation": "UC Davis"
+  },
+  "California Irvine": {
+    "conference": "Big West",
+    "name": "Anteaters",
+    "abbreviation": "UC Irvine"
+  },
+  "California Riverside": {
+    "conference": "Big West",
+    "name": "Highlanders",
+    "abbreviation": "UC Riverside"
+  },
+  "California San Diego": {
+    "conference": "Big West",
+    "name": "Tritons",
+    "abbreviation": "UC San Diego"
+  },
+  "California Santa Barbara": {
+    "conference": "Big West",
+    "name": "Gauchos",
+    "abbreviation": "UC Santa Barbara"
+  },
+  "Campbell": {
+    "conference": "Coastal",
+    "name": "Fighting Camels",
+    "abbreviation": null
+  },
+  "Charleston": {
+    "conference": "Coastal",
+    "name": "Cougars",
+    "abbreviation": null
+  },
+  "Delaware": {
+    "conference": "Coastal",
+    "name": "Blue Hens",
+    "abbreviation": "UD"
+  },
+  "Drexel": {
+    "conference": "Coastal",
+    "name": "Dragons",
+    "abbreviation": null
+  },
+  "Elon": {
+    "conference": "Coastal",
+    "name": "Phoenix",
+    "abbreviation": null
+  },
+  "Hampton": {
+    "conference": "Coastal",
+    "name": "Pirates",
+    "abbreviation": null
+  },
+  "Hofstra": {
+    "conference": "Coastal",
+    "name": "Pride",
+    "abbreviation": null
+  },
+  "Monmouth": {
+    "conference": "Coastal",
+    "name": "Hawks",
+    "abbreviation": null
+  },
+  "North Carolina A&T": {
+    "conference": "Coastal",
+    "name": "Aggies",
+    "abbreviation": null
+  },
+  "Northeastern": {
+    "conference": "Coastal",
+    "name": "Huskies",
+    "abbreviation": null
+  },
+  "Stony Brook": {
+    "conference": "Coastal",
+    "name": "Seawolves",
+    "abbreviation": null
+  },
+  "Towson": {
+    "conference": "Coastal",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "North Carolina Wilmington": {
+    "conference": "Coastal",
+    "name": "Seahawks",
+    "abbreviation": "UNC Wilmington"
+  },
+  "William & Mary": {
+    "conference": "Coastal",
+    "name": "Tribe",
+    "abbreviation": null
+  },
+  "Florida International": {
+    "conference": "USA",
+    "name": "Panthers",
+    "abbreviation": "FIU"
+  },
+  "Jacksonville State": {
+    "conference": "USA",
+    "name": "Gamecocks",
+    "abbreviation": null
+  },
+  "Kennesaw State": {
+    "conference": "USA",
+    "name": "Owls",
+    "abbreviation": null
+  },
+  "Liberty": {
+    "conference": "USA",
+    "name": "Flames",
+    "abbreviation": null
+  },
+  "Louisiana Tech": {
+    "conference": "USA",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Middle Tennessee": {
+    "conference": "USA",
+    "name": "Blue Raiders",
+    "abbreviation": "MTSU"
+  },
+  "New Mexico State": {
+    "conference": "USA",
+    "name": "Aggies",
+    "abbreviation": "NM"
+  },
+  "Sam Houston": {
+    "conference": "USA",
+    "name": "Bearkats",
+    "abbreviation": null
+  },
+  "Texas at El Paso": {
+    "conference": "USA",
+    "name": "Miners",
+    "abbreviation": "UTEP"
+  },
+  "Western Kentucky": {
+    "conference": "USA",
+    "name": "Hilltoppers",
+    "abbreviation": "WKU"
+  },
+  "Cleveland State": {
+    "conference": "Horizon",
+    "name": "Vikings",
+    "abbreviation": null
+  },
+  "Detroit Mercy": {
+    "conference": "Horizon",
+    "name": "Titans",
+    "abbreviation": null
+  },
+  "Wisconsin Green Bay": {
+    "conference": "Horizon",
+    "name": "Phoenix",
+    "abbreviation": "UW Green Bay"
+  },
+  "Indiana Indianapolis": {
+    "conference": "Horizon",
+    "name": "Jaguars",
+    "abbreviation": "IUPUI"
+  },
+  "Wisconsin Milwaukee": {
+    "conference": "Horizon",
+    "name": "Panthers",
+    "abbreviation": "UW Milwaukee"
+  },
+  "Northern Kentucky": {
+    "conference": "Horizon",
+    "name": "Norse",
+    "abbreviation": null
+  },
+  "Oakland": {
+    "conference": "Horizon",
+    "name": "Golden Grizzlies",
+    "abbreviation": null
+  },
+  "Purdue Fort Wayne": {
+    "conference": "Horizon",
+    "name": "Mastodons",
+    "abbreviation": "PFW"
+  },
+  "Robert Morris": {
+    "conference": "Horizon",
+    "name": "Colonials",
+    "abbreviation": null
+  },
+  "Wright State": {
+    "conference": "Horizon",
+    "name": "Raiders",
+    "abbreviation": null
+  },
+  "Youngstown State": {
+    "conference": "Horizon",
+    "name": "Penguins",
+    "abbreviation": null
+  },
+  "Brown": {
+    "conference": "Ivy",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Columbia": {
+    "conference": "Ivy",
+    "name": "Lions",
+    "abbreviation": null
+  },
+  "Cornell": {
+    "conference": "Ivy",
+    "name": "Big Red",
+    "abbreviation": null
+  },
+  "Dartmouth": {
+    "conference": "Ivy",
+    "name": "Big Green",
+    "abbreviation": null
+  },
+  "Harvard": {
+    "conference": "Ivy",
+    "name": "Crimson",
+    "abbreviation": null
+  },
+  "Pennsylviania": {
+    "conference": "Ivy",
+    "name": "Quakers",
+    "abbreviation": "UPenn"
+  },
+  "Princeton": {
+    "conference": "Ivy",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Yale": {
+    "conference": "Ivy",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Canisius": {
+    "conference": "MAAC",
+    "name": "Golden Griffins",
+    "abbreviation": null
+  },
+  "Fairfield": {
+    "conference": "MAAC",
+    "name": "Stags",
+    "abbreviation": null
+  },
+  "Iona": {
+    "conference": "MAAC",
+    "name": "Gaels",
+    "abbreviation": null
+  },
+  "Manhattan": {
+    "conference": "MAAC",
+    "name": "Jaspers",
+    "abbreviation": null
+  },
+  "Marist": {
+    "conference": "MAAC",
+    "name": "Red Foxes",
+    "abbreviation": null
+  },
+  "Merrimack": {
+    "conference": "MAAC",
+    "name": "Warriors",
+    "abbreviation": null
+  },
+  "Mount St. Mary's": {
+    "conference": "MAAC",
+    "name": "Mountaineers",
+    "abbreviation": "MSM"
+  },
+  "Niagara": {
+    "conference": "MAAC",
+    "name": "Purple Eagles",
+    "abbreviation": null
+  },
+  "Quinnipiac": {
+    "conference": "MAAC",
+    "name": "Bobcats",
+    "abbreviation": null
+  },
+  "Rider": {
+    "conference": "MAAC",
+    "name": "Broncos",
+    "abbreviation": null
+  },
+  "Sacred Heart": {
+    "conference": "MAAC",
+    "name": "Pioneers",
+    "abbreviation": null
+  },
+  "Saint Peter's": {
+    "conference": "MAAC",
+    "name": "Peacocks",
+    "abbreviation": null
+  },
+  "Sienna": {
+    "conference": "MAAC",
+    "name": "Saints",
+    "abbreviation": null
+  },
+  "Coppin State": {
+    "conference": "MEAC",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Delaware State": {
+    "conference": "MEAC",
+    "name": "Hornets",
+    "abbreviation": null
+  },
+  "Howard": {
+    "conference": "MEAC",
+    "name": "Bison",
+    "abbreviation": null
+  },
+  "Maryland Eastern": {
+    "conference": "MEAC",
+    "name": "Shore Hawks",
+    "abbreviation": null
+  },
+  "Morgan State": {
+    "conference": "MEAC",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Norfolk State": {
+    "conference": "MEAC",
+    "name": "Spartans",
+    "abbreviation": null
+  },
+  "North Carolina Central": {
+    "conference": "MEAC",
+    "name": "Eagles",
+    "abbreviation": "NCC"
+  },
+  "South Carolina State": {
+    "conference": "MEAC",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Akron": {
+    "conference": "Mid-American",
+    "name": "Zips",
+    "abbreviation": null
+  },
+  "Ball State": {
+    "conference": "Mid-American",
+    "name": "Cardinals",
+    "abbreviation": null
+  },
+  "Bowling Green": {
+    "conference": "Mid-American",
+    "name": "Falcons",
+    "abbreviation": null
+  },
+  "Buffalo": {
+    "conference": "Mid-American",
+    "name": "Bulls",
+    "abbreviation": null
+  },
+  "Cental Michigan": {
+    "conference": "Mid-American",
+    "name": "Chippewas",
+    "abbreviation": "CMU"
+  },
+  "Eastern Michigan": {
+    "conference": "Mid-American",
+    "name": "Eagles",
+    "abbreviation": "EMU"
+  },
+  "Kent State": {
+    "conference": "Mid-American",
+    "name": "Golden Flashes",
+    "abbreviation": null
+  },
+  "Miami Ohio": {
+    "conference": "Mid-American",
+    "name": "RedHawks",
+    "abbreviation": null
+  },
+  "Northern Illinois": {
+    "conference": "Mid-American",
+    "name": "Huskies",
+    "abbreviation": "NIU"
+  },
+  "Ohio": {
+    "conference": "Mid-American",
+    "name": "Bobcats",
+    "abbreviation": null
+  },
+  "Toledo": {
+    "conference": "Mid-American",
+    "name": "Rockets",
+    "abbreviation": null
+  },
+  "Western Michigan": {
+    "conference": "Mid-American",
+    "name": "Broncos",
+    "abbreviation": "WMU"
+  },
+  "Belmont": {
+    "conference": "Missouri Valley",
+    "name": "Bruins",
+    "abbreviation": null
+  },
+  "Bradley": {
+    "conference": "Missouri Valley",
+    "name": "Braves",
+    "abbreviation": null
+  },
+  "Drake": {
+    "conference": "Missouri Valley",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Evansville": {
+    "conference": "Missouri Valley",
+    "name": "Purple Aces",
+    "abbreviation": null
+  },
+  "Illinois State": {
+    "conference": "Missouri Valley",
+    "name": "Redbirds",
+    "abbreviation": null
+  },
+  "Indiana State": {
+    "conference": "Missouri Valley",
+    "name": "Sycamores",
+    "abbreviation": null
+  },
+  "Missouri State": {
+    "conference": "Missouri Valley",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Murray State": {
+    "conference": "Missouri Valley",
+    "name": "Racers",
+    "abbreviation": null
+  },
+  "Northern Iowa": {
+    "conference": "Missouri Valley",
+    "name": "Panthers",
+    "abbreviation": null
+  },
+  "Southern Illinois": {
+    "conference": "Missouri Valley",
+    "name": "Salukis",
+    "abbreviation": null
+  },
+  "Illinois Chicago": {
+    "conference": "Missouri Valley",
+    "name": "Flames",
+    "abbreviation": "UIC"
+  },
+  "Valparaiso": {
+    "conference": "Missouri Valley",
+    "name": "Beacons",
+    "abbreviation": null
+  },
+  "Air Force": {
+    "conference": "Mountain West",
+    "name": "Falcons",
+    "abbreviation": null
+  },
+  "Boise State": {
+    "conference": "Mountain West",
+    "name": "Broncos",
+    "abbreviation": null
+  },
+  "Colorado State": {
+    "conference": "Mountain West",
+    "name": "Rams",
+    "abbreviation": "CSU"
+  },
+  "Fresno State": {
+    "conference": "Mountain West",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Nevada": {
+    "conference": "Mountain West",
+    "name": "Wolf Pack",
+    "abbreviation": null
+  },
+  "New Mexico": {
+    "conference": "Mountain West",
+    "name": "Lobos",
+    "abbreviation": "NM"
+  },
+  "San Diego State": {
+    "conference": "Mountain West",
+    "name": "Lobos",
+    "abbreviation": "SDSU"
+  },
+  "San Jose State": {
+    "conference": "Mountain West",
+    "name": "Spartans",
+    "abbreviation": null
+  },
+  "Nevada Las Vegas": {
+    "conference": "Mountain West",
+    "name": "Rebels",
+    "abbreviation": "UNLV"
+  },
+  "Utah State": {
+    "conference": "Big 10",
+    "name": "Aggies",
+    "abbreviation": null
+  },
+  "Wyoming": {
+    "conference": "Mountain West",
+    "name": "Cowboys",
+    "abbreviation": null
+  },
+  "Central Connecticut": {
+    "conference": "Northeast",
+    "name": "Blue Devils",
+    "abbreviation": "CC"
+  },
+  "Chicago State": {
+    "conference": "Northeast",
+    "name": "Cougars",
+    "abbreviation": null
+  },
+  "Fairleigh Dickinson": {
+    "conference": "Northeast",
+    "name": "Knights",
+    "abbreviation": null
+  },
+  "Le Moyne": {
+    "conference": "Northeast",
+    "name": "Dolphins",
+    "abbreviation": null
+  },
+  "Long Island": {
+    "conference": "Northeast",
+    "name": "Sharks",
+    "abbreviation": null
+  },
+  "Mercyhurst": {
+    "conference": "Northeast",
+    "name": "Lakers",
+    "abbreviation": null
+  },
+  "St. Francis (PA)": {
+    "conference": "Northeast",
+    "name": "Red Flash",
+    "abbreviation": null
+  },
+  "Stonehill": {
+    "conference": "Northeast",
+    "name": "Skyhawks",
+    "abbreviation": null
+  },
+  "Wagner": {
+    "conference": "Northeast",
+    "name": "Seahawks",
+    "abbreviation": null
+  },
+  "Eastern Illinois": {
+    "conference": "Ohio Valley",
+    "name": "Panthers",
+    "abbreviation": null
+  },
+  "Lindenwood": {
+    "conference": "Ohio Valley",
+    "name": "Lions",
+    "abbreviation": null
+  },
+  "Arkansas Little Rock": {
+    "conference": "Ohio Valley",
+    "name": "Trojans",
+    "abbreviation": "Little Rock"
+  },
+  "Morehead State": {
+    "conference": "Ohio Valley",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Southern Illinois Edwardsville": {
+    "conference": "Ohio Valley",
+    "name": "Cougars",
+    "abbreviation": "SIU"
+  },
+  "Southeast Missouri State": {
+    "conference": "Ohio Valley",
+    "name": "RedHawks",
+    "abbreviation": "SEMO"
+  },
+  "Southern Indiana": {
+    "conference": "Ohio Valley",
+    "name": "Screaming Eagles",
+    "abbreviation": null
+  },
+  "Tennessee State": {
+    "conference": "Ohio Valley",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Tennessee Tech": {
+    "conference": "Ohio Valley",
+    "name": "Golden Eagles",
+    "abbreviation": null
+  },
+  "Tennessee Martin": {
+    "conference": "Ohio Valley",
+    "name": "Skyhawks",
+    "abbreviation": "UT Martin"
+  },
+  "Western Illinois": {
+    "conference": "Ohio Valley",
+    "name": "Leathernecks",
+    "abbreviation": null
+  },
+  "American": {
+    "conference": "Patriot League",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Army": {
+    "conference": "Patriot League",
+    "name": "Black Knights",
+    "abbreviation": null
+  },
+  "Boston": {
+    "conference": "Patriot League",
+    "name": "Terriers",
+    "abbreviation": "BU"
+  },
+  "Bucknell": {
+    "conference": "Patriot League",
+    "name": "Bison",
+    "abbreviation": null
+  },
+  "Colgate": {
+    "conference": "Patriot League",
+    "name": "Raiders",
+    "abbreviation": null
+  },
+  "Holy Cross": {
+    "conference": "Patriot League",
+    "name": "Crusaders",
+    "abbreviation": null
+  },
+  "Lafayette": {
+    "conference": "Patriot League",
+    "name": "Leopards",
+    "abbreviation": null
+  },
+  "Lehigh": {
+    "conference": "Patriot League",
+    "name": "Mountain Hawks",
+    "abbreviation": null
+  },
+  "Loyola Maryland": {
+    "conference": "Patriot League",
+    "name": "Greyhounds",
+    "abbreviation": null
+  },
+  "Navy": {
+    "conference": "Patriot League",
+    "name": "Midshipmen",
+    "abbreviation": null
+  },
+  "Alabama": {
+    "conference": "SEC",
+    "name": "Crimson Tide",
+    "abbreviation": null
+  },
+  "Arkansas": {
+    "conference": "SEC",
+    "name": "Razorbacks",
+    "abbreviation": null
+  },
+  "Auburn": {
+    "conference": "SEC",
+    "name": "Tigers",
+    "abbreviation": "AU"
+  },
+  "Florida": {
+    "conference": "SEC",
+    "name": "Gators",
+    "abbreviation": "UF"
+  },
+  "Georgia": {
+    "conference": "SEC",
+    "name": "Bulldogs",
+    "abbreviation": "UGA"
+  },
+  "Kentucky": {
+    "conference": "SEC",
+    "name": "Wildcats",
+    "abbreviation": "UK"
+  },
+  "Louisiana State": {
+    "conference": "SEC",
+    "name": "Tigers",
+    "abbreviation": "LSU"
+  },
+  "Mississippi State": {
+    "conference": "SEC",
+    "name": "Bulldogs",
+    "abbreviation": "MSU"
+  },
+  "Missouri": {
+    "conference": "SEC",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Oklahoma": {
+    "conference": "SEC",
+    "name": "Sooners",
+    "abbreviation": "OU"
+  },
+  "Mississippi": {
+    "conference": "SEC",
+    "name": "Rebels",
+    "abbreviation": "Ole Miss"
+  },
+  "South Carolina": {
+    "conference": "SEC",
+    "name": "Gamecocks",
+    "abbreviation": "USC"
+  },
+  "Tennessee": {
+    "conference": "SEC",
+    "name": "Volunteers",
+    "abbreviation": "UT"
+  },
+  "Texas A&M": {
+    "conference": "SEC",
+    "name": "Aggies",
+    "abbreviation": null
+  },
+  "Texas": {
+    "conference": "SEC",
+    "name": "Longhorns",
+    "abbreviation": "UT"
+  },
+  "Vanderbilt": {
+    "conference": "SEC",
+    "name": "Commodores",
+    "abbreviation": "Vandy"
+  },
+  "Alabama A&M": {
+    "conference": "SWAC",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Alabama State": {
+    "conference": "SWAC",
+    "name": "Hornets",
+    "abbreviation": null
+  },
+  "Alcorn State": {
+    "conference": "SWAC",
+    "name": "Braves",
+    "abbreviation": null
+  },
+  "Arkansas Pine Bluff": {
+    "conference": "SWAC",
+    "name": "Golden Lions",
+    "abbreviation": null
+  },
+  "Bethune-Cookman": {
+    "conference": "SWAC",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Florida A&M": {
+    "conference": "SWAC",
+    "name": "Rattlers",
+    "abbreviation": null
+  },
+  "Grambling": {
+    "conference": "SWAC",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Jackson State": {
+    "conference": "SWAC",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Mississippi Valley State": {
+    "conference": "SWAC",
+    "name": "Delta Devils",
+    "abbreviation": null
+  },
+  "Prairie View A&M": {
+    "conference": "SWAC",
+    "name": "Panthers",
+    "abbreviation": null
+  },
+  "Southern": {
+    "conference": "SWAC",
+    "name": "Jaguars",
+    "abbreviation": null
+  },
+  "Texas Southern": {
+    "conference": "SWAC",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Chattanooga": {
+    "conference": "Southern",
+    "name": "Mocs",
+    "abbreviation": null
+  },
+  "East Tennessee State": {
+    "conference": "Southern",
+    "name": "Buccaneers",
+    "abbreviation": null
+  },
+  "Furman": {
+    "conference": "Southern",
+    "name": "Paladins",
+    "abbreviation": null
+  },
+  "Mercer": {
+    "conference": "Southern",
+    "name": "Bears",
+    "abbreviation": null
+  },
+  "Samford": {
+    "conference": "Southern",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Citadel": {
+    "conference": "Southern",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "North Carolina Greensboro": {
+    "conference": "Southern",
+    "name": "Spartans",
+    "abbreviation": "UNC Greensboro"
+  },
+  "Virginia Military": {
+    "conference": "Southern",
+    "name": "Keydets",
+    "abbreviation": "VMI"
+  },
+  "Western Carolina": {
+    "conference": "Southern",
+    "name": "Catamounts",
+    "abbreviation": null
+  },
+  "Wofford": {
+    "conference": "Southern",
+    "name": "Terriers",
+    "abbreviation": null
+  },
+  "Houston Christian": {
+    "conference": "Southland",
+    "name": "Huskies",
+    "abbreviation": null
+  },
+  "Incarnate Word": {
+    "conference": "Southland",
+    "name": "Cardinals",
+    "abbreviation": "IW"
+  },
+  "Lamar": {
+    "conference": "Southland",
+    "name": "Cardinals",
+    "abbreviation": null
+  },
+  "McNeese": {
+    "conference": "Southland",
+    "name": "Cowboys",
+    "abbreviation": null
+  },
+  "New Orleans": {
+    "conference": "Southland",
+    "name": "Privateers",
+    "abbreviation": null
+  },
+  "Nicholls": {
+    "conference": "Southland",
+    "name": "Colonels",
+    "abbreviation": null
+  },
+  "Northwestern State": {
+    "conference": "Southland",
+    "name": "Demons",
+    "abbreviation": null
+  },
+  "Southeastern Louisiana": {
+    "conference": "Southland",
+    "name": "Lions",
+    "abbreviation": "SE Louisiana"
+  },
+  "Stephen F. Austin": {
+    "conference": "Southland",
+    "name": "Lumberjacks",
+    "abbreviation": "SFA"
+  },
+  "Texas A&M Commerce": {
+    "conference": "Southland",
+    "name": "Lions",
+    "abbreviation": "TAMUC"
+  },
+  "Texas A&M Corpus Christi": {
+    "conference": "Southland",
+    "name": "Islanders",
+    "abbreviation": "TAMU-CC"
+  },
+  "Texas Rio Grande Valley": {
+    "conference": "Southland",
+    "name": "Vaqueros",
+    "abbreviation": "UT Rio Grande"
+  },
+  "Denver": {
+    "conference": "Summit League",
+    "name": "Pioneers",
+    "abbreviation": "UD"
+  },
+  "Kansas City": {
+    "conference": "Summit League",
+    "name": "Roos",
+    "abbreviation": "UMKC"
+  },
+  "North Dakota": {
+    "conference": "Summit League",
+    "name": "Fighting Hawks",
+    "abbreviation": "UND"
+  },
+  "North Dakota State": {
+    "conference": "Summit League",
+    "name": "Bison",
+    "abbreviation": "NDSU"
+  },
+  "Omaha": {
+    "conference": "Summit League",
+    "name": "Mavericks",
+    "abbreviation": null
+  },
+  "Oral Roberts": {
+    "conference": "Summit League",
+    "name": "Golden Eagles",
+    "abbreviation": null
+  },
+  "South Dakota": {
+    "conference": "Summit League",
+    "name": "Coyotes",
+    "abbreviation": null
+  },
+  "South Dakota State": {
+    "conference": "Summit League",
+    "name": "Jackrabbits",
+    "abbreviation": null
+  },
+  "St. Thomas Minnesota": {
+    "conference": "Summit League",
+    "name": "Tommies",
+    "abbreviation": null
+  },
+  "App State": {
+    "conference": "Sun Belt",
+    "name": "Mountaineers",
+    "abbreviation": null
+  },
+  "Arkansas State": {
+    "conference": "Sun Belt",
+    "name": "Red Wolves",
+    "abbreviation": null
+  },
+  "Coastal Carolina": {
+    "conference": "Sun Belt",
+    "name": "Chanticleers",
+    "abbreviation": "CCU"
+  },
+  "Georgia Southern": {
+    "conference": "Sun Belt",
+    "name": "Eagles",
+    "abbreviation": null
+  },
+  "Georgia State": {
+    "conference": "Sun Belt",
+    "name": "Panthers",
+    "abbreviation": null
+  },
+  "James Madison": {
+    "conference": "Sun Belt",
+    "name": "Dukes",
+    "abbreviation": "JMU"
+  },
+  "Louisiana": {
+    "conference": "Sun Belt",
+    "name": "Ragin Cajuns",
+    "abbreviation": null
+  },
+  "Marshall": {
+    "conference": "Sun Belt",
+    "name": "Thundering Herd",
+    "abbreviation": null
+  },
+  "Old Dominion": {
+    "conference": "Sun Belt",
+    "name": "Monarchs",
+    "abbreviation": "ODU"
+  },
+  "South Alabama": {
+    "conference": "Sun Belt",
+    "name": "Jaguars",
+    "abbreviation": null
+  },
+  "Southern Miss": {
+    "conference": "Sun Belt",
+    "name": "Golden Eagles",
+    "abbreviation": null
+  },
+  "Texas State": {
+    "conference": "Sun Belt",
+    "name": "Bobcats",
+    "abbreviation": null
+  },
+  "Troy": {
+    "conference": "Sun Belt",
+    "name": "Trojans",
+    "abbreviation": null
+  },
+  "Louisiana Monroe": {
+    "conference": "Sun Belt",
+    "name": "Warhawks",
+    "abbreviation": "UL Monroe"
+  },
+  "Abilene Christian": {
+    "conference": "WAC",
+    "name": "Wildcats",
+    "abbreviation": null
+  },
+  "Carolina Baptist": {
+    "conference": "WAC",
+    "name": "Lancers",
+    "abbreviation": null
+  },
+  "Grand Canyon": {
+    "conference": "WAC",
+    "name": "Lopes",
+    "abbreviation": "GCU"
+  },
+  "Seattle U": {
+    "conference": "WAC",
+    "name": "RedHawks",
+    "abbreviation": null
+  },
+  "Southern Utah": {
+    "conference": "WAC",
+    "name": "Thunderbirds",
+    "abbreviation": null
+  },
+  "Tarleton State": {
+    "conference": "WAC",
+    "name": "Texans",
+    "abbreviation": null
+  },
+  "Texas Arlington": {
+    "conference": "WAC",
+    "name": "Mavericks",
+    "abbreviation": "UT Arlington"
+  },
+  "Utah Tech": {
+    "conference": "WAC",
+    "name": "Trailblazers",
+    "abbreviation": null
+  },
+  "Utah Valley": {
+    "conference": "WAC",
+    "name": "Wolverines",
+    "abbreviation": "UVU"
+  },
+  "Gonzaga": {
+    "conference": "West Coast",
+    "name": "Bulldogs",
+    "abbreviation": null
+  },
+  "Loyola Marymount": {
+    "conference": "West Coast",
+    "name": "Lions",
+    "abbreviation": null
+  },
+  "Oregon State": {
+    "conference": "West Coast",
+    "name": "Beavers",
+    "abbreviation": "OU"
+  },
+  "Pacific": {
+    "conference": "West Coast",
+    "name": "Tigers",
+    "abbreviation": null
+  },
+  "Pepperdine": {
+    "conference": "West Coast",
+    "name": "Waves",
+    "abbreviation": null
+  },
+  "Portland State": {
+    "conference": "West Coast",
+    "name": "Pilots",
+    "abbreviation": null
+  },
+  "Saint Mary's": {
+    "conference": "West Coast",
+    "name": "Gaels",
+    "abbreviation": null
+  },
+  "San Diego": {
+    "conference": "West Coast",
+    "name": "Toreros",
+    "abbreviation": null
+  },
+  "San Francisco": {
+    "conference": "West Coast",
+    "name": "Dons",
+    "abbreviation": null
+  },
+  "Santa Clara": {
+    "conference": "West Coast",
+    "name": "Broncos",
+    "abbreviation": null
+  },
+  "Washington State": {
+    "conference": "West Coast",
+    "name": "Cougars",
+    "abbreviation": "WSU"
+  }
+}

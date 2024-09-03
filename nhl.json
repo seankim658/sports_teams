@@ -1,0 +1,162 @@
+{
+  "Carolina Hurricanes": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "Car"
+  },
+  "Columbus Blue Jackets": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "Cbj"
+  },
+  "New Jersey Devils": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "NJ"
+  },
+  "New York Islanders": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "NYI"
+  },
+  "New York Rangers": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "NYR"
+  },
+  "Philadelphia Flyers": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "PHI"
+  },
+  "Pittsburgh Penguins": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "Pit"
+  },
+  "Washington Capitals": {
+    "conference": "Eastern",
+    "division": "Metropolitan",
+    "abbreviation": "WSH"
+  },
+  "Boston Bruins": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "Bos"
+  },
+  "Buffalo Sabres": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "Buf"
+  },
+  "Detroit Red Wings": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "Det"
+  },
+  "Florida Panthers": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "FLA"
+  },
+  "Montreal Canadiens": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "MTL"
+  },
+  "Ottawa Senators": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "Ott"
+  },
+  "Tampa Bay Lightning": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "TB"
+  },
+  "Toronto Maple Leafs": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "Tor"
+  },
+  "Chicago Blackhawks": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "Chi"
+  },
+  "Colorado Avalanche": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "Col"
+  },
+  "Dallas Stars": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "Dal"
+  },
+  "Minnesota Wild": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "Min"
+  },
+  "Nashville Predators": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "NSH"
+  },
+  "St. Louis Blues": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "STL"
+  },
+  "Utah Hockey Club": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "Uta"
+  },
+  "Winnipeg Jets": {
+    "conference": "Western",
+    "division": "Central",
+    "abbreviation": "WPG"
+  },
+  "Anaheim Ducks": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "Ana"
+  },
+  "Calgary Flames": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "Cgy"
+  },
+  "Edmonton Oilers": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "Edm"
+  },
+  "Los Angeles Kings": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "LAK"
+  },
+  "San Jose Sharks": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "SJS"
+  },
+  "Seattle Kraken": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "Sea"
+  },
+  "Vancouver Canucks": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "VAN"
+  },
+  "Vegas Golden Knights": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "VGK"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Boston Celtics": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "BOS"
+  },
+  "New York Knicks": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "NYK"
+  },
+  "Philadelphia 76ers": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "PHI"
+  },
+  "Brooklyn Nets": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "BKN"
+  },
+  "Toronto Raptors": {
+    "conference": "Eastern",
+    "division": "Atlantic",
+    "abbreviation": "TOR"
+  },
+  "Milwaukee Bucks": {
+    "conference": "Eastern",
+    "division": "Central",
+    "abbreviation": "MIL"
+  },
+  "Cleveland Cavaliers": {
+    "conference": "Eastern",
+    "division": "Central",
+    "abbreviation": "CLE"
+  },
+  "Indiana Pacers": {
+    "conference": "Eastern",
+    "division": "Central",
+    "abbreviation": "IND"
+  },
+  "Chicago Bulls": {
+    "conference": "Eastern",
+    "division": "Central",
+    "abbreviation": "CHI"
+  },
+  "Detroit Pistons": {
+    "conference": "Eastern",
+    "division": "Central",
+    "abbreviation": "DET"
+  },
+  "Orlando Magic": {
+    "conference": "Eastern",
+    "division": "Southeast",
+    "abbreviation": "ORL"
+  },
+  "Miami Heat": {
+    "conference": "Eastern",
+    "division": "Southeast",
+    "abbreviation": "MIA"
+  },
+  "Atlanta Hawks": {
+    "conference": "Eastern",
+    "division": "Southeast",
+    "abbreviation": "ATL"
+  },
+  "Charlotte Hornets": {
+    "conference": "Eastern",
+    "division": "Southeast",
+    "abbreviation": "CHA"
+  },
+  "Washington Wizards": {
+    "conference": "Eastern",
+    "division": "Southeast",
+    "abbreviation": "WAS"
+  },
+  "Oklahoma City Thunder": {
+    "conference": "Western",
+    "division": "Northwest",
+    "abbreviation": "OKC"
+  },
+  "Denver Nuggets": {
+    "conference": "Western",
+    "division": "Northwest",
+    "abbreviation": "DEN"
+  },
+  "Minnesota Timberwolves": {
+    "conference": "Western",
+    "division": "Northwest",
+    "abbreviation": "MIN"
+  },
+  "Utah Jazz": {
+    "conference": "Western",
+    "division": "Northwest",
+    "abbreviation": "UTH"
+  },
+  "Portland Trail Blazers": {
+    "conference": "Western",
+    "division": "Northwest",
+    "abbreviation": "POR"
+  },
+  "Los Angeles Clippers": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "LAC"
+  },
+  "Phoenix Suns": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "PHO"
+  },
+  "Los Angeles Lakers": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "LAL"
+  },
+  "Sacramento Kings": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "SAC"
+  },
+  "Golden State Warriors": {
+    "conference": "Western",
+    "division": "Pacific",
+    "abbreviation": "GSW"
+  },
+  "Dallas Mavericks": {
+    "conference": "Southwest",
+    "division": "Pacific",
+    "abbreviation": "DAL"
+  },
+  "New Orleans Pelicans": {
+    "conference": "Southwest",
+    "division": "Pacific",
+    "abbreviation": "NOP"
+  },
+  "Houston Rockets": {
+    "conference": "Southwest",
+    "division": "Pacific",
+    "abbreviation": "HOU"
+  },
+  "Memphis Grizzlies": {
+    "conference": "Southwest",
+    "division": "Pacific",
+    "abbreviation": "MEM"
+  },
+  "San Antonio Spurs": {
+    "conference": "Southwest",
+    "division": "Pacific",
+    "abbreviation": "SAS"
+  }
+}

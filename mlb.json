@@ -1,0 +1,152 @@
+{
+  "New York Yankees": {
+    "conference": "AL",
+    "division": "AL East",
+    "abbreviation": "NYY"
+  },
+  "Baltimore Orioles": {
+    "conference": "AL",
+    "division": "AL East",
+    "abbreviation": "BAL"
+  },
+  "Boston Red Sox": {
+    "conference": "AL",
+    "division": "AL East",
+    "abbreviation": "BOS"
+  },
+  "Tampa Bay Rays": {
+    "conference": "AL",
+    "division": "AL East",
+    "abbreviation": "TB"
+  },
+  "Toronto Blue Jays": {
+    "conference": "AL",
+    "division": "AL East",
+    "abbreviation": "TOR"
+  },
+  "Cleveland Guardians": {
+    "conference": "AL",
+    "division": "AL Central",
+    "abbreviation": "CLE"
+  },
+  "Minnesota Twins": {
+    "conference": "AL",
+    "division": "AL Central",
+    "abbreviation": "MIN"
+  },
+  "Kansas City Royals": {
+    "conference": "AL",
+    "division": "AL Central",
+    "abbreviation": "KAN"
+  },
+  "Detroit Tigers": {
+    "conference": "AL",
+    "division": "AL Central",
+    "abbreviation": "DET"
+  },
+  "Chicago White Sox": {
+    "conference": "AL",
+    "division": "AL Central",
+    "abbreviation": "CWS"
+  },
+  "Houston Astros": {
+    "conference": "AL",
+    "division": "AL West",
+    "abbreviation": "HOU"
+  },
+  "Seattle Mariners": {
+    "conference": "AL",
+    "division": "AL West",
+    "abbreviation": "SEA"
+  },
+  "Texas Rangers": {
+    "conference": "AL",
+    "division": "AL West",
+    "abbreviation": "TEX"
+  },
+  "Oakland Athletics": {
+    "conference": "AL",
+    "division": "AL West",
+    "abbreviation": "OAK"
+  },
+  "Los Angeles Angels": {
+    "conference": "AL",
+    "division": "AL West",
+    "abbreviation": "LAA"
+  },
+  "Philadelphia Phillies": {
+    "conference": "NL",
+    "division": "NL East",
+    "abbreviation": "PHI"
+  },
+  "Atlanta Braves": {
+    "conference": "NL",
+    "division": "NL East",
+    "abbreviation": "ATL"
+  },
+  "New York Mets": {
+    "conference": "NL",
+    "division": "NL East",
+    "abbreviation": "NYM"
+  },
+  "Washington Nationals": {
+    "conference": "NL",
+    "division": "NL East",
+    "abbreviation": "WAS"
+  },
+  "Miami Marlins": {
+    "conference": "NL",
+    "division": "NL East",
+    "abbreviation": "MIA"
+  },
+  "Milwaukee Brewers": {
+    "conference": "NL",
+    "division": "NL Central",
+    "abbreviation": "MIL"
+  },
+  "Chicago Cubs": {
+    "conference": "NL",
+    "division": "NL Central",
+    "abbreviation": "CHC"
+  },
+  "St. Louis Cardinals": {
+    "conference": "NL",
+    "division": "NL Central",
+    "abbreviation": "STL"
+  },
+  "Cincinnati Reds": {
+    "conference": "NL",
+    "division": "NL Central",
+    "abbreviation": "CIN"
+  },
+  "Pittsburgh Pirates": {
+    "conference": "NL",
+    "division": "NL Central",
+    "abbreviation": "PIT"
+  },
+  "Los Angeles Dodgers": {
+    "conference": "NL",
+    "division": "NL West",
+    "abbreviation": "LAD"
+  },
+  "San Diego Padres": {
+    "conference": "NL",
+    "division": "NL West",
+    "abbreviation": "SD"
+  },
+  "Arizona Diamondbacks": {
+    "conference": "NL",
+    "division": "NL West",
+    "abbreviation": "ARI"
+  },
+  "San Francisco Giants": {
+    "conference": "NL",
+    "division": "NL West",
+    "abbreviation": "SF"
+  },
+  "Colorado Rockies": {
+    "conference": "NL",
+    "division": "NL West",
+    "abbreviation": "COL"
+  }
+}
